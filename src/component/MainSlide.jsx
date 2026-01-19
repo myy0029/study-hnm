@@ -9,8 +9,8 @@ function MainSlide() {
     <section className="main-slide">
       <Carousel>
         <Carousel.Item interval={1000}>
-          <img src={MainImg1} alt="S/S 2024" />
-          <p>S/S 2024</p>
+          <img src={MainImg1} alt="S/S 2026" />
+          <p>S/S 2026</p>
         </Carousel.Item>
         <Carousel.Item interval={800}>
           <img src={MainImg2} alt="Pops of colour" />
